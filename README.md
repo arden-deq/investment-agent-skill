@@ -83,7 +83,7 @@ MODEL_CHAT=gpt-4.1-mini
 ### Local Run
 
 ```bash
-git clone https://github.com/jungducknam/investment-agent-skill.git
+git clone https://github.com/arden-deq/investment-agent-skill.git
 cd investment-agent-skill
 cp templates/config/.env.example .env
 pip install -r requirements.txt
@@ -140,7 +140,7 @@ In this mode, the repository acts as a data and prompt builder. The outer agent 
 Install the repository first:
 
 ```bash
-git clone https://github.com/jungducknam/investment-agent-skill.git
+git clone https://github.com/arden-deq/investment-agent-skill.git
 cd investment-agent-skill
 pip install -r requirements.txt
 ```
@@ -449,7 +449,7 @@ MODEL_CHAT=gpt-4.1-mini
 ### 로컬 실행
 
 ```bash
-git clone https://github.com/jungducknam/investment-agent-skill.git
+git clone https://github.com/arden-deq/investment-agent-skill.git
 cd investment-agent-skill
 cp templates/config/.env.example .env
 pip install -r requirements.txt
@@ -506,7 +506,7 @@ sudo systemctl status investment-bot
 먼저 저장소를 설치합니다.
 
 ```bash
-git clone https://github.com/jungducknam/investment-agent-skill.git
+git clone https://github.com/arden-deq/investment-agent-skill.git
 cd investment-agent-skill
 pip install -r requirements.txt
 ```
